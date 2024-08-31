@@ -11,3 +11,6 @@ https://colab.research.google.com/drive/18lqzGDECNpfofeSTIvMPo15aZuVtJe7-?usp=sh
 
 ## Output
 
+![image](https://github.com/user-attachments/assets/8e986cf7-6d3a-433f-bd0c-6bca200c169c)
+![image](https://github.com/user-attachments/assets/c5c04a49-0f48-4eec-97af-637b260c05ea)
+
